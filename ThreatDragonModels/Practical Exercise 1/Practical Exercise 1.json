@@ -35,6 +35,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 1,
             "ports": {
               "groups": {
                 "top": {
@@ -118,7 +119,6 @@
               ]
             },
             "id": "e3e4dd1a-00f3-44af-8389-9828503db167",
-            "zIndex": 1,
             "data": {
               "type": "tm.Process",
               "name": "Process",
